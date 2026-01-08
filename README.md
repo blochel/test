@@ -23,3 +23,6 @@ Chris Chatfield
 
 ***The Statistical Analysis of Failure Time Data*** <br />
 John Kalbfleisch and Ross Prentice
+
+***The Darkness Manifesto: How Light Pollution Threatens the Ancient Rhythms of Life*** <br />
+Johan Eklöf
