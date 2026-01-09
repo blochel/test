@@ -1,4 +1,4 @@
-# Books 
+# Books read during PhD (starting fall 2025)
 
 ***The Ecological Detective: Confronting Models with Data*** <br />
 Ray Hilborn and Marc Mangel 
@@ -13,10 +13,11 @@ Lars Götzenberger, Marco Moretti and Matty P. Berg
 Ben Goldfarb 
 
 
-## Reading 
-
 ***Models in Ecology*** <br />
 John Maynard Smith 
+
+
+## Reading 
 
 ***The Analysis of Time Series: An Introduction, Sixth Edition*** <br />
 Chris Chatfield 
