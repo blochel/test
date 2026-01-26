@@ -34,4 +34,7 @@ Chris Chatfield
 ***The Statistical Analysis of Failure Time Data*** <br />
 John Kalbfleisch and Ross Prentice
 
+***Everything Is Predictable: How Bayesian Statistics Explain Our World*** <br />
+Tom Chivers
+
 
