@@ -20,6 +20,12 @@ John Maynard Smith
 ***The Darkness Manifesto: How Light Pollution Threatens the Ancient Rhythms of Life*** <br />
 Johan Eklöf
 
+
+***The Ecology Book: Big Ideas Simply Explained***<br />
+DK
+
+
+
 ## Reading 
 
 ***The Analysis of Time Series: An Introduction, Sixth Edition*** <br />
