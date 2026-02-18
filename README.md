@@ -34,9 +34,6 @@ Tom Chivers
 ***The Analysis of Time Series: An Introduction, Sixth Edition*** <br />
 Chris Chatfield 
 
-***The Statistical Analysis of Failure Time Data*** <br />
-John Kalbfleisch and Ross Prentice
-
 
 
 
