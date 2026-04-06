@@ -29,6 +29,10 @@ DK
 Tom Chivers
 
 
+***The Weather Machine*** <br />
+Andrew Blum
+
+
 ## Reading 
 
 ***The Analysis of Time Series: An Introduction, Sixth Edition*** <br />
