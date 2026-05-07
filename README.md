@@ -39,5 +39,14 @@ Andrew Blum
 Chris Chatfield 
 
 
+***Bayesian Models: A Statistical Primer for Ecologists, 2nd Edition *** <br />
+N. Thomas Hobbs and Melvin B. Hooten
+
+
+
+# additional learning
+
+***Statistical Rethinking 2026 ***
+[Course Link](https://www.youtube.com/playlist?list=PLDcUM9US4XdNOlqSyhe38US8mFgmqzI14)
 
 
