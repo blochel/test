@@ -43,7 +43,7 @@ Chris Chatfield
 N. Thomas Hobbs and Melvin B. Hooten
 
 
-***The Art of Uncertainty: How to Navigate Chance, Ignorance, Risk and Luck *** <br />
+***The Art of Uncertainty: How to Navigate Chance, Ignorance, Risk and Luck*** <br />
 David Spiegelhalter 
 
 
