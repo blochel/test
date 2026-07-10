@@ -39,11 +39,11 @@ Andrew Blum
 Chris Chatfield 
 
 
-***Bayesian Models: A Statistical Primer for Ecologists, 2nd Edition *** <br />
+***Bayesian Models: A Statistical Primer for Ecologists, 2nd Edition*** <br />
 N. Thomas Hobbs and Melvin B. Hooten
 
 
-***The Art of Uncertainty: How to Navigate Chance, Ignorance, Risk and Luck  *** <br />
+***The Art of Uncertainty: How to Navigate Chance, Ignorance, Risk and Luck *** <br />
 David Spiegelhalter 
 
 
